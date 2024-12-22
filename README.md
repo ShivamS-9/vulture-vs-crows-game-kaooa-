@@ -6,7 +6,7 @@ This is a simple turn-based game built using `pygame` where two players (Vulture
 
 - Python 3.x
 - `pygame` library
-- 
+  
 ## How to Play
 
 ### Players:
